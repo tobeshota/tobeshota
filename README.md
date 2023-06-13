@@ -6,3 +6,6 @@ tobeshota&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=
 tobeshota&theme=onedark&show_icons=ture" />
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tobeshota)]
+(https://github.com/anuraghazra/github-readme-stats)
